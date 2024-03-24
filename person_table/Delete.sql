@@ -1,3 +1,4 @@
+-- Delete duplicates from table
 DELETE FROM person
 WHERE id NOT IN (
     SELECT MIN(id)
