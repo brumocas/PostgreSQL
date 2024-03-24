@@ -1,4 +1,3 @@
-
 -- create table car (
 --	id BIGSERIAL NOT NULL PRIMARY KEY,
 --	make VARCHAR(100) NOT NULL,
