@@ -8,3 +8,7 @@ This course is aimed at beginners who are looking to learn about relational data
 ## Repository Structure
 - **code_samples**: This directory contains code snippets and examples discussed in the course.
 - **resources**: Here you'll find additional resources such as PDF guides, cheat sheets, and links to relevant articles or documentation.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
